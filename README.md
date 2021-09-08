@@ -11,7 +11,11 @@
 ### 正在进行的项目
 
 **:pushpin: 网站导航项目**
-
+1. **技术栈介绍**
+- 前端：Vue2.x + Elemenu-ui + scss
+- 后端：Express + Node.Js
+- 数据库：MongoDB
+2. **项目地址**
 * 前端项目地址 : [navigation](https://github.com/Hacker233/navigation)
 * 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve)
 
