@@ -8,7 +8,7 @@
 - :blowfish:  哔哩哔哩 : [会飞的猪](https://space.bilibili.com/493520625)
 - :bath: 微信公众号 : [资料分享大师](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NDEwMzk4NA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2)
 
-### 正在进行的项目
+### 正在进行的开源项目
 
 **:pushpin: 网站导航项目**
 1. **技术栈介绍**
