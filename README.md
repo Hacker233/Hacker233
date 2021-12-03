@@ -18,7 +18,7 @@
 - 数据存储服务：minio
 2. **项目地址**
 * 前端项目地址 : [navigation](https://github.com/Hacker233/navigation)
-* 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve)
+* 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve) （私有项目）
 3. **在线体验地址**
 * [smallpig.site](http://smallpig.site/)
 * 需要管理员体验账号的小伙伴私聊我。
