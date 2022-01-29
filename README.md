@@ -18,7 +18,7 @@
 - 数据存储服务：minio
 2. **项目地址**
 * 前端项目地址 : [navigation](https://github.com/Hacker233/navigation) （web端）
-* uniapp版本地址：[navigation-uniapp](https://github.com/Hacker233/navigation-uniapp) (同微信小程序【科技趣谈】)
+* uniapp版本地址：[navigation-uniapp](https://github.com/Hacker233/navigation-uniapp) (同微信小程序【科技趣玩】)
 * 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve) （私有项目）
 3. **在线体验地址**
 * [smallpig.site](http://smallpig.site/)
