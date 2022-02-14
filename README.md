@@ -9,7 +9,7 @@
 - :bath: 微信公众号 : [资料分享大师](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NDEwMzk4NA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2)
 
 微信小程序：【科技趣玩】
-<img align="left" src="https://smallpig.site/img/qrcode.35525b81.jpg" />
+<img src="https://smallpig.site/img/qrcode.35525b81.jpg" />
 
 ### 正在进行的开源项目
 
