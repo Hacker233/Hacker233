@@ -12,7 +12,7 @@
 
 ### 微信小程序：【科技趣玩】
 
-<img src="https://smallpig.site/img/qrcode.35525b81.jpg" alt="https://smallpig.site/img/qrcode.35525b81.jpg" style="zoom:50%;" />
+<img src="https://smallpig.site/img/qrcode.35525b81.jpg" alt="https://smallpig.site/img/qrcode.35525b81.jpg" style="zoom:25%;" />
 
 
 
