@@ -20,7 +20,7 @@
 
 **:pushpin: 网站导航项目**
 1. **技术栈介绍**
-- 前端：Vue2.x + Elemenu-ui + scss
+- 前端：Vue2.x + Element-ui + scss
 - 后端：Express + Node.Js
 - 数据库：MongoDB
 - 数据存储服务：minio
