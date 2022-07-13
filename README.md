@@ -18,6 +18,13 @@
 
 ### 正在进行的开源项目
 
+**:pushpin: 开源简历制作神器**
+1. **技术栈介绍**
+- 前端：Vue3.x + Vite + Pinia + Element_plus
+2. **项目地址**
+* 前端项目地址 : [resume-design](https://github.com/Hacker233/resume-design) （web端）
+
+
 **:pushpin: 网站导航项目**
 1. **技术栈介绍**
 - 前端：Vue2.x + Element-ui + scss
