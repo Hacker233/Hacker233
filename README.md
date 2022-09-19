@@ -25,21 +25,7 @@
 - 前端：Vue3.x + Vite + Pinia + Element_plus
 2. **项目地址**
 * 前端项目地址 : [resume-design](https://github.com/Hacker233/resume-design) （web端）
-
-
-**:pushpin: 网站导航项目**
-1. **技术栈介绍**
-- 前端：Vue2.x + Element-ui + scss
-- 后端：Express + Node.Js
-- 数据库：MongoDB
-- 数据存储服务：minio
-2. **项目地址**
-* 前端项目地址 : [navigation](https://github.com/Hacker233/navigation) （web端）
-* uniapp版本地址：[navigation-uniapp](https://github.com/Hacker233/navigation-uniapp) (同微信小程序【科技趣玩】)
-* 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve) （私有项目）
-3. **在线体验地址**
-* [smallpig.site](http://smallpig.site/)
-* 需要管理员体验账号的小伙伴私聊我。
-
+* 后台项目地址 : [resume-server](https://github.com/Hacker233/resume-server) （web端）
+<img src="https://smallpig.site:9000/resume/templatePreview/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-09-17%20133332.png" />
 持续更新中...
 
