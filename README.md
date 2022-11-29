@@ -11,13 +11,6 @@
 - :bath: 开源简历制作神器： [91化简](https://github.com/huajian-pro/resume-design)
 
 
-
-### 微信小程序：【科技趣玩】
-
-<img src="https://smallpig.site/img/qrcode.35525b81.jpg" alt="https://smallpig.site/img/qrcode.35525b81.jpg" style="zoom:25%;" />
-
-
-
 ### 正在进行的开源项目
 
 **:pushpin: 开源简历制作神器**
@@ -25,7 +18,7 @@
 - 前端：Vue3.x + Vite + Pinia + Element_plus
 2. **项目地址**
 * 前端项目地址 : [resume-design](https://github.com/Hacker233/resume-design) （web端）
-* 后台项目地址 : [resume-server](https://github.com/Hacker233/resume-server) （web端）
+* 在线地址：https://91huajian.cn
 <img src="https://smallpig.site:9000/resume/templatePreview/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-09-17%20133332.png" />
 持续更新中...
 
