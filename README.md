@@ -8,7 +8,7 @@
 - :smile:  掘金 : [小猪课堂](https://juejin.cn/user/3034307822112798)
 - :blowfish:  哔哩哔哩 : [小猪课堂](https://space.bilibili.com/493520625)
 - :bath: 微信公众号 : [资料分享大师](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NDEwMzk4NA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2)
-- :bath: 开源简历制作神器： [91化简](https://github.com/huajian-pro/resume-design)
+- :bath: 开源简历制作神器： [猫步简历](https://github.com/huajian-pro/resume-design)
 
 
 ### 正在进行的开源项目
